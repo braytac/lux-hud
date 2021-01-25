@@ -20,13 +20,13 @@ Lux HUD is a collection of [Conky](https://github.com/brndnmtthws/conky) configs
 
 -   Linux
 -   [conky >= 1.11](https://github.com/brndnmtthws/conky)
--   Cutive Mono font
+-   Bitstream Vera Sans Mono font
     -   [Google fonts](https://fonts.google.com/specimen/Cutive+Mono)
     -   [1001 Free font](https://www.1001freefonts.com/cutive-mono.font)
 
 ## Usage
 
-Make sure you have conky and the Cutive Mono font installed on your system.
+Make sure you have conky and the Bitstream Vera Sans Mono font installed on your system.
 
 Download compressed files or use git clone.
 
